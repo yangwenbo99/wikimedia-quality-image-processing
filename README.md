@@ -4,7 +4,7 @@ Grabbing the metadata of Wikimedia Quality Images, downloading the images, filte
 
 This is the script used to in our paper [Towards a Universal Image Degradation Model via Content-Degradation Disentanglement](https://github.com/yangwenbo99/content-degradation-disentanglement) for generating one of the training sets.  Information about each step is documented in their individual README files.
 
-Some pre-processed datasets are available on Arbutus.  Please visit our research lab's website for a catalogue. 
+Some pre-processed datasets are available on Arbutus.  Please visit [our research lab's website for a catalogue](https://ivc.uwaterloo.ca/projects/content-degradation-disentanglement/WQI.html). 
 
 If you find this code useful, please consider citing our paper:
 
